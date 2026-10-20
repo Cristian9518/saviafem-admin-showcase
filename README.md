@@ -38,7 +38,6 @@ La estructura de navegación organiza las áreas de ventas, marketing, automatiz
 
 ### Otras vistas del sistema
 
-![Vista del administrador Saviafem](<Captura de pantalla 2026-10-20 091840.png>)
 ![Vista adicional de Saviafem Admin](<Captura de pantalla 2026-10-20 092140.png>)
 ![Módulo de Saviafem Admin](<Captura de pantalla 2026-10-20 094347.png>)
 ![Herramientas de Saviafem Admin](<Captura de pantalla 2026-10-20 094402.png>)
